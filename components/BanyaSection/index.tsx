@@ -11,7 +11,7 @@ const BanyaSection = () => {
   useEffect(() => {
     let int = setTimeout(() => {
       setIsVisible(true);
-    }, 1000 * 60);
+    }, 1000 * 20);
     return () => clearTimeout(int);
   }, []);
 
