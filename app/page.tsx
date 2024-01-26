@@ -1,10 +1,11 @@
 import BanyaSection from "@/components/BanyaSection";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
     <>
-      <main className="max-w-6xl mx-auto px-4 py-16 grow">
+      <main className="max-w-6xl mx-auto px-4 py-16 grow bg-gray-100">
         <h1 className="text-3xl font-semibold text-center text-gray-800">
           Добро пожаловать на наш сайт по переносным баням!
         </h1>
