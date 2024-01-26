@@ -6,7 +6,7 @@ import Image from "next/image";
 import React, { use, useEffect } from "react";
 
 const BanyaSection = () => {
-  const [isVisible, setIsVisible] = React.useState(true);
+  const [isVisible, setIsVisible] = React.useState(false);
 
   useEffect(() => {
     let int = setTimeout(() => {
