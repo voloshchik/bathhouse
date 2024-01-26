@@ -1,4 +1,4 @@
-import BanyaSection from "@/component/BanyaSection";
+import BanyaSection from "@/components/BanyaSection";
 import Image from "next/image";
 
 export default function Home() {
