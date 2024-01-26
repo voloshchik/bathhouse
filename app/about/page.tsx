@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 // components/AboutSection.js
 
 import React from "react";
